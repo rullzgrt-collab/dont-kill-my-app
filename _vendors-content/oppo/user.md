@@ -83,3 +83,4 @@ You can choose one of three power-saving options under each app and allow the ap
   </figure>
 
 </div>
+bagus banget 
